@@ -1,6 +1,6 @@
 import React from 'react';
 // components
-import LaunchArticle from '../../components/LaunchArticle';
+import LaunchArticle from '../../components/LaunchArticle/LaunchArticle';
 
 const LaunchesFeed = ({ launches }) =>
     launches.map(launch => (

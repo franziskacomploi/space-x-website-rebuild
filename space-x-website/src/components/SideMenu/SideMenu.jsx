@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 // components
-import MenuLinks from '../MenuLinks';
+import MenuLinks from '../MenuLinks/MenuLinks';
 // style
 import './style.scss';
 

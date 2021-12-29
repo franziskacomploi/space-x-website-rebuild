@@ -13,7 +13,7 @@ const Routing = () => (
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="launches" element={<PastLaunches />} />
-                <Route path="rocket/:id" element={<Rocket />} />
+                <Route path="rocket/:rocketId" element={<Rocket />} />
             </Routes>
         </div>
     </Router>
