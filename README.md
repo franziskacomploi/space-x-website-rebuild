@@ -9,9 +9,11 @@ Tech Stack:
 - GraphQL
 - Apollo
 
-## Deploy
+### Deploy
 
-Deployed here:
+Deployed here: https://space-x-website.vercel.app/
+
+![The Main Page](weather-project/src/styles/assets/space-x-project.png?raw=true)
 
 ## Inspiration
 
