@@ -16,3 +16,5 @@ Deployed here:
 ## Inspiration
 
 The Project is inspired by Dana and can be found here: https://theultimateapichallenge.com/spacex-api
+
+Node version 16.12.0
